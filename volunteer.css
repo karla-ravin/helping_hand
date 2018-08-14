@@ -12,7 +12,7 @@ body {
   display: block;
   color: #3d495e;
   text-align: center;
-  padding: 14px 125px;
+  padding: 14px;
   text-decoration: none;
   font-size: 17px;
 }
@@ -55,7 +55,6 @@ body {
 select{
   height: 50px;
   width: 150px;
-  position: center;
 }
 
 body{
@@ -66,16 +65,9 @@ body{
   /* makes all uppercase letters -> lovecase */
 }
 
-#mymenu{
-  position: center;
-}
 
 h1{
   font-size: 40px;
-}
-
-div{
-  position: center;
 }
 
 .column {
