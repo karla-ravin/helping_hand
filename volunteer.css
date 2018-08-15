@@ -74,6 +74,10 @@ body{
 
 h1{
   font-size: 40px;
+  font-weight: bold;
+  font-style: normal;
+  font-variant: small-caps;
+  font-stretch: semi-expanded;
 }
 
 .column {
@@ -273,12 +277,6 @@ h2{
   font-size: 32px;
 }
 
-h7 {
-  text-align: center;
-  margin-left: 30%;
-  margin-right: 10%;
-}
-
 #blurb {
   text-align: center;
   text-decoration: none;
@@ -291,6 +289,10 @@ button {
   font-size: 20px;
 }
 
+#gif {
+  width: 600px;
+  height: 350px;
+}
 
 
 
