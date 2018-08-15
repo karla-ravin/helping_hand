@@ -78,6 +78,7 @@ h1{
   font-style: normal;
   font-variant: small-caps;
   font-stretch: semi-expanded;
+  font-family: fantasy;
 }
 
 .column {
@@ -280,8 +281,8 @@ h2{
 #blurb {
   text-align: center;
   text-decoration: none;
-  margin-left: 30%;
-  margin-right: 30%;
+  margin-left: 20%;
+  margin-right: 20%;
   font-size: 25px;
 }
 
